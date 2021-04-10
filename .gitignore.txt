@@ -1,0 +1,3 @@
+#.gitignore de mi primera practica
+build/*
+.build
